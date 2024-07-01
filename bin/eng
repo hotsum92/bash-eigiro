@@ -5,9 +5,7 @@ function dict() {
     $HOME/eng/EDP-1441/EIJIRO-utf8/REIJI1441.TXT.utf8 \
     $HOME/eng/EDP-1441/EIJIRO-utf8/RYAKU1441.TXT.utf8 \
     $HOME/eng/EDP-1441/EIJIRO-utf8/WAEI-1441.TXT.utf8 \
-    $HOME/eng/EDP-1441/EIJIRO-utf8/EIJI-1441.TXT.utf8 \
-    $HOME/eng/unno602-dump/EJ_602/DATA/ej_602-utf8.txt \
-    $HOME/eng/unno602-dump/YREI_602/DATA/yrei_602-utf8.txt
+    $HOME/eng/EDP-1441/EIJIRO-utf8/EIJI-1441.TXT.utf8
 }
 
 function sort_by_len() {
